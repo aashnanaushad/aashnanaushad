@@ -12,7 +12,7 @@ computing skills and programming abilities to become an efficient IT support.
 - 👯 I’m looking to collaborate on projects with social relevance.
 <!-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: [https://www.linkedin.com/in/aashna-naushad-474b2a148/ ](https://www.linkedin.com/in/aashna-naushad/)
+- 📫 How to reach me: [linkedin.com/in/aashna-naushad/ ](https://www.linkedin.com/in/aashna-naushad/)
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
